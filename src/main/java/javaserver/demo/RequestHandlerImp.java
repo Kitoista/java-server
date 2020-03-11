@@ -1,14 +1,14 @@
-package demo;
+package javaserver.demo;
 
 import java.io.IOException;
 
 import org.json.JSONObject;
 
-import core.Connection;
-import core.Request;
-import core.RequestHandler;
-import core.Response;
-import core.Server;
+import javaserver.core.Connection;
+import javaserver.core.Request;
+import javaserver.core.RequestHandler;
+import javaserver.core.Response;
+import javaserver.core.Server;
 
 public class RequestHandlerImp implements RequestHandler {
 

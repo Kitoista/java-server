@@ -1,4 +1,4 @@
-package demo;
+package javaserver.demo;
 
 import java.lang.reflect.Field;
 import java.util.Collections;

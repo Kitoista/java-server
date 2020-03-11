@@ -1,14 +1,14 @@
-package demo;
+package javaserver.demo;
 
 import java.io.IOException;
 
-import core.Client;
-import core.Request;
-import core.RequestHandler;
-import core.Response;
-import core.Server;
-import exceptions.NotInitializedException;
-import imp.ServerImp;
+import javaserver.core.Client;
+import javaserver.core.Request;
+import javaserver.core.RequestHandler;
+import javaserver.core.Response;
+import javaserver.core.Server;
+import javaserver.exceptions.NotInitializedException;
+import javaserver.imp.ServerImp;
 
 public class Main {
 

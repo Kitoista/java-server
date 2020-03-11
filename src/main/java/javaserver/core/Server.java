@@ -1,8 +1,8 @@
-package core;
+package javaserver.core;
 
 import java.io.IOException;
 
-import exceptions.NotInitializedException;
+import javaserver.exceptions.NotInitializedException;
 
 public interface Server extends AutoCloseable {
 

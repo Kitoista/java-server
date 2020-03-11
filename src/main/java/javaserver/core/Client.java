@@ -1,4 +1,4 @@
-package core;
+package javaserver.core;
 
 import java.io.EOFException;
 import java.io.IOException;

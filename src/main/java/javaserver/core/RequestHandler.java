@@ -1,4 +1,4 @@
-package core;
+package javaserver.core;
 
 public interface RequestHandler {
 

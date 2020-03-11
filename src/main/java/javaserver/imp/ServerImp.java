@@ -1,4 +1,4 @@
-package imp;
+package javaserver.imp;
 
 import java.io.EOFException;
 import java.io.IOException;
@@ -11,13 +11,13 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-import core.Connection;
-import core.Request;
-import core.RequestHandler;
-import core.Response;
-import core.Server;
-import debug.Debugger;
-import exceptions.NotInitializedException;
+import javaserver.core.Connection;
+import javaserver.core.Request;
+import javaserver.core.RequestHandler;
+import javaserver.core.Response;
+import javaserver.core.Server;
+import javaserver.debug.Debugger;
+import javaserver.exceptions.NotInitializedException;
 
 public class ServerImp implements Server {
 	

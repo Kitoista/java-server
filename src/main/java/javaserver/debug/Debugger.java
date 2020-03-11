@@ -1,4 +1,4 @@
-package debug;
+package javaserver.debug;
 
 public class Debugger {
 	

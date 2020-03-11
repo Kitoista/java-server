@@ -1,4 +1,4 @@
-package exceptions;
+package javaserver.exceptions;
 
 public class NotInitializedException extends Exception {
 
